@@ -1,6 +1,6 @@
 Rolas GitHub Portfolio
 
-Live link => 
+Live link => https://rolagithub.vercel.app/
 
 Built with:
 1. JSX
@@ -10,7 +10,7 @@ Built with:
 
 I implement the following with this app.
 1.An API fetch of my GitHub Profile and Repository
-2.React-router,
+2.React-router
 3.404 page, and Error boundary.
 4.pagination - showed the prev, next.
 
