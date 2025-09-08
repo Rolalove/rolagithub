@@ -58,7 +58,7 @@ function Errorboundary() {
     <main className="w-4/5 mx-auto mt-20  ">
       <div className="text-center bg-white py-5 px-5">
         <h1 className="text-3xl text-[#002147] font-extrabold">
-          Test for Error Boundary
+          Testing right now
         </h1>
         <p className="text-[#002147] mt-2 text-xl">
           {" "}
